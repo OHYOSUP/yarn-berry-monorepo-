@@ -45,7 +45,7 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <Button>This is @wanted ui</Button>
+        <Button variant="contained">This is @wanted ui</Button>
 
         <div className={styles.center}>
           <Image className={styles.logo} src="/next.svg" alt="Next.js Logo" width={180} height={37} priority />
